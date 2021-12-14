@@ -1,6 +1,6 @@
 # SVG-Chart-Generator
-Suriya Chaubey 64011643
-This project is created by Suriya Chaubey of SE 64011643
+
+This project is created by Suriya Chaubey 64011643
 In this project, you will be able to input no more than 5 numbers into a file and it will create a svg file.
 
 References:-
